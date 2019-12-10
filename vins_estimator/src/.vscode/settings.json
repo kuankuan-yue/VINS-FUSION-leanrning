@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "mutex": "cpp",
+        "thread": "cpp",
+        "chrono": "cpp",
+        "*.ipp": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "string": "cpp"
+    }
+}
